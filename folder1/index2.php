@@ -6,5 +6,6 @@
 </head>
 <body>
     <img src="sample2.jpg" alt="Sample Image">
+    <p>sdsadas</p>
 </body>
 </html>
